@@ -15,4 +15,7 @@
 # Paso 5
 > Cuando copies le das enter y se comienzara la descarga (una vezque termine la descargar buelven a copiar tu link de nuevo para la siguiente)
 
+# Donde se guarda todo?
+> La app crea en automatico una carpeta llamada **Download**
+
 
