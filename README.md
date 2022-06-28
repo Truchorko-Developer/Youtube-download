@@ -1,7 +1,5 @@
 # Youtube-download
 
-# Pasos de descargas
-
 # Paso 1
 > Descaragar todos los archivos
 
